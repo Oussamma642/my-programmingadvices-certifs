@@ -1,12 +1,11 @@
-# React + Vite
+## 📘 About Programming Advices
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Programming Advices is an online programming education platform led by Dr. Mohammed Abu‑Hadhoud, a software expert with over 28 years of experience in development, architecture, and project management. With its headquarters in Amman, Jordan, the platform is dedicated to teaching programming the **right way**—through practical, hands-on lessons grounded in real-world knowledge.
 
-Currently, two official plugins are available:
+### 🚀 Why Programming Advices?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Structured learning paths**: Begin with programming fundamentals and advance to topics like algorithms, C++, databases, SOLID principles, and APIs.
+- **Experience-driven teaching**: Build strong problem-solving skills with cumulative exercises and live-project implementation.
+- **Efficient learning philosophy**: Learn how to analyze and solve problems in code—beyond simply syntax—based on decades of expertise.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+In this repo, you'll find the source code where I present my 13 certifications which demonstrate the core principles of this field
